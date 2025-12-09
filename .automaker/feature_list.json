@@ -11,7 +11,7 @@
     "category": "Core",
     "description": "I want the ability to press P which will automatically select my projects drop down and show all my projects. And then for each one, put a hotkey in the left that says 12345 and selecting one of those with my keyboard should automatically select that project.\n",
     "steps": [],
-    "status": "in_progress"
+    "status": "verified"
   },
   {
     "id": "feature-1765301095506-cpy06q9u0",
@@ -32,6 +32,6 @@
     "category": "Core",
     "description": "-o should actually open the select folder prompt. Right now when you click o it goes to like the overview page. That's not the correct experience I'm looking for. Also just clicking on the top left open folder icon should do the same thing of opening the system prompt so they can select a project.",
     "steps": [],
-    "status": "in_progress"
+    "status": "verified"
   }
 ]
